@@ -57,8 +57,6 @@ public class Clase7b {
 		Alert alerta = driver.switchTo().alert();
 		alerta.sendKeys("Clase de Automatización");
 		alerta.accept();
-		
-		System.out.println("Fin de la prueba");
-		
+	
 	}
 }
