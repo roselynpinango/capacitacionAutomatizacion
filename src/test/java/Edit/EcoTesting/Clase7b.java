@@ -58,5 +58,7 @@ public class Clase7b {
 		alerta.sendKeys("Clase de Automatización");
 		alerta.accept();
 		
+		System.out.println("Fin de la prueba");
+		
 	}
 }
